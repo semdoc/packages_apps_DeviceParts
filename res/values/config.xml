@@ -25,7 +25,7 @@
     <!-- Path to devices High Brigness Mode toggle file -->
     <string name="pathHBMModeToggle"></string>
 
-    <!-- Path to devices High Brigness Mode toggle file -->
+    <!-- Path to devices OnePlus Mode toggle file -->
     <string name="pathOnePlusModeToggle"></string>
 
     <!-- Path to devices NightMode toggle file -->
